@@ -1,0 +1,8 @@
+openai
+langchain==0.2.1
+langchain-community==0.2.1
+tiktoken==0.8.0  # Specify version
+pandas==2.2.3    # Add version if not specified
+faiss-cpu==1.8.0
+pymongo==4.6.2
+streamlit
